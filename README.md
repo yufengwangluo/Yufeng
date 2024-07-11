@@ -1,6 +1,5 @@
 **DocHub文库重构版本来了！！！新文库系统叫`moredoc`，即`魔豆文库`**
 
-![](static/Home/default/img/moredoc.png)
 
 **开源地址**
 

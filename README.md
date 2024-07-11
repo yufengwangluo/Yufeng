@@ -10,8 +10,6 @@
 
 -------------------------
 
-![LOGO](static/Home/default/img/logo.png)
-
 ------
 
 目录：
